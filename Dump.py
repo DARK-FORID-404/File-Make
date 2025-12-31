@@ -7,4 +7,4 @@ if bit=='64bit':
     import dump
 elif bit=='32bit':
     print('YOUR DEVICE 32 BIT ')
-    import dump32
+    import dump
